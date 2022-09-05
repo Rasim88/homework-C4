@@ -1,0 +1,15 @@
+C:\Users\o384x\Desktop\GB\SeminarC4\obj\Debug\net6.0\SeminarC4.csproj.AssemblyReference.cache
+C:\Users\o384x\Desktop\GB\SeminarC4\obj\Debug\net6.0\SeminarC4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\o384x\Desktop\GB\SeminarC4\obj\Debug\net6.0\SeminarC4.AssemblyInfoInputs.cache
+C:\Users\o384x\Desktop\GB\SeminarC4\obj\Debug\net6.0\SeminarC4.AssemblyInfo.cs
+C:\Users\o384x\Desktop\GB\SeminarC4\obj\Debug\net6.0\SeminarC4.csproj.CoreCompileInputs.cache
+C:\Users\o384x\Desktop\GB\SeminarC4\bin\Debug\net6.0\SeminarC4.exe
+C:\Users\o384x\Desktop\GB\SeminarC4\bin\Debug\net6.0\SeminarC4.deps.json
+C:\Users\o384x\Desktop\GB\SeminarC4\bin\Debug\net6.0\SeminarC4.runtimeconfig.json
+C:\Users\o384x\Desktop\GB\SeminarC4\bin\Debug\net6.0\SeminarC4.dll
+C:\Users\o384x\Desktop\GB\SeminarC4\bin\Debug\net6.0\SeminarC4.pdb
+C:\Users\o384x\Desktop\GB\SeminarC4\obj\Debug\net6.0\SeminarC4.dll
+C:\Users\o384x\Desktop\GB\SeminarC4\obj\Debug\net6.0\refint\SeminarC4.dll
+C:\Users\o384x\Desktop\GB\SeminarC4\obj\Debug\net6.0\SeminarC4.pdb
+C:\Users\o384x\Desktop\GB\SeminarC4\obj\Debug\net6.0\SeminarC4.genruntimeconfig.cache
+C:\Users\o384x\Desktop\GB\SeminarC4\obj\Debug\net6.0\ref\SeminarC4.dll
